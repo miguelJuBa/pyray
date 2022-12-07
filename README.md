@@ -1,2 +1,5 @@
-# payray
-A python monochromatic raycaster example
+# Pyray
+A python monochromatic raycaster example:
+
+![text](example.png)
+
